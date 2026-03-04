@@ -12,7 +12,7 @@ export default defineConfig({
 				{ label: '🚀 Start Here / Masterplan', link: '/' },
 				{ label: '🏍️ Bike Rentals', link: 'essentials/rentals' },
 				{ label: '🎒 Packing & Gear', link: 'essentials/gear' },
-				{ label: '🗺️ The Route & GPX', link: 'route/map' },
+				{ label: '🗺️ The Route', link: 'route/map' },
 				{ label: '🏘️ Pai Guide', link: 'towns/pai' },
 				{ label: '🏯 Mae Hong Son City', link: 'towns/mae-hong-son' },
 				{ label: '🛶 Mae Sariang Guide', link: 'towns/mae-sariang' },
