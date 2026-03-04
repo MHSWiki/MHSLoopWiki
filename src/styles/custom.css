@@ -1,0 +1,91 @@
+:root {
+    --sl-color-accent-low: #331a00;
+    --sl-color-accent: #ff8c00;
+    /* Adventure Orange */
+    --sl-color-accent-high: #ffb366;
+    --sl-color-white: #ffffff;
+    --sl-color-gray-1: #eceef2;
+    --sl-color-gray-2: #c0c8d1;
+    --sl-color-gray-3: #8893a0;
+    --sl-color-gray-4: #54585d;
+    --sl-color-gray-5: #35393e;
+    --sl-color-gray-6: #232629;
+    --sl-color-black: #17191b;
+}
+
+/* Premium Typography */
+:root {
+    --sl-font-system: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Modern Header Gradient */
+header {
+    background: linear-gradient(90deg, #17191b 0%, #232629 100%) !important;
+    border-bottom: 1px solid #ff8c0033 !important;
+}
+
+/* Sidebar Styling */
+nav[aria-label="Main"] {
+    background-color: var(--sl-color-black) !important;
+    border-right: 1px solid #ff8c0033 !important;
+    width: 250px;
+}
+
+/* Ensure links are visible */
+.sidebar-content a {
+    color: var(--sl-color-gray-2) !important;
+    font-weight: 500;
+}
+
+.sidebar-content a[aria-current="page"] {
+    color: var(--sl-color-accent) !important;
+    font-weight: 700;
+}
+
+/* Hero Section Styling */
+.hero {
+    border-radius: 2rem;
+    overflow: hidden;
+    background: linear-gradient(135deg, #232629 0%, #17191b 100%);
+    border: 1px solid #ffffff11;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+.hero h1 {
+    text-transform: uppercase;
+    letter-spacing: -0.05em;
+    font-weight: 800;
+    background: linear-gradient(to right, #ffffff, #ff8c00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Card Improvements */
+.card {
+    background: #232629 !important;
+    border: 1px solid #ffffff11 !important;
+    transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    border-color: #ff8c00 !important;
+}
+
+/* Wide Top Banner */
+.top-banner img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    object-position: center 30%;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    border: 1px solid #ffffff11;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 768px) {
+    .top-banner img {
+        height: 200px;
+    }
+}
