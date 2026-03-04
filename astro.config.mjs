@@ -13,9 +13,9 @@ export default defineConfig({
 				{ label: '🏍️ Bike Rentals', link: 'essentials/rentals' },
 				{ label: '🎒 Packing & Gear', link: 'essentials/gear' },
 				{ label: '🗺️ The Route', link: 'route/map' },
-				{ label: '🏘️ Pai Guide', link: 'towns/pai' },
-				{ label: '🏯 Mae Hong Son City', link: 'towns/mae-hong-son' },
-				{ label: '🛶 Mae Sariang Guide', link: 'towns/mae-sariang' },
+				{ label: '🏘️ Pai City Guide', link: 'towns/pai' },
+				{ label: '🏯 Mae Hong Son City Guide', link: 'towns/mae-hong-son' },
+				{ label: '🛶 Mae Sariang City Guide', link: 'towns/mae-sariang' },
 				{ label: '🛡️ Safety & Insurance', link: 'safety' },
 			],
 			customCss: [
