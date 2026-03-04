@@ -1,5 +1,5 @@
 ---
-title: The MHS Route & Maps
+title: Route & Maps
 description: The master route, directions, and alternate shortcuts for the Mae Hong Son Loop.
 ---
 
@@ -25,7 +25,7 @@ Instead of taking the long outer arc down to Mae Sariang, you can cut across the
 ### The Mae Aw / Ban Rak Thai Extension
 From Mae Hong Son City, ride north to the Chinese-influenced tea village of Ban Rak Thai. This is a common and stunning detour, adding a lakeside tea-tasting experience to your loop, though the road up is incredibly steep.
 
-## GPX & Offline Navigation
+## 📡 Offline Navigation
 
 Mobile data (4G/5G) is surprisingly good in Northern Thailand, but you will hit dead zones in the deep mountain passes and valleys.
 
@@ -33,4 +33,3 @@ Mobile data (4G/5G) is surprisingly good in Northern Thailand, but you will hit 
 1.  **Google Maps:** Download the entire Mae Hong Son province area for offline use.
 2.  **Maps.me:** An excellent offline alternative that often details smaller dirt trails better than Google.
 
-*(Note: Custom GPX download files to integrate into your Garmin or Rever app will be available here soon).*
