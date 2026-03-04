@@ -18,7 +18,7 @@ The MHS Wiki project is in the early stages of infrastructure setup and moderniz
 | **Instagram** | `@mhswiki` | `MHS_Loop_Wiki_2026_!` | **Flagged** | Account creation hit a CAPTCHA/bot wall. |
 | **Stay22** | `mhswiki@proton.me` | `MHS_Loop_Wiki_2026_!` | **Pending** | For accommodation/affiliate booking. |
 | **Travelpayouts** | `mhswiki@proton.me` | `MHS_Loop_Wiki_2026_!` | **Pending** | For flights and general travel affiliates. |
-| **GitHub** | `Your Gmail Address` | *Google Auth* | **Active** | Code hosting and deployment. |
+| **GitHub** | `MHSWiki` (via Google Auth) | *PAT Required* | **Active** | Repo: `mhsloopwiki` |
 | **Astro/Starlight** | Local Development | N/A | **Active** | Foundation for the wiki is live locally. |
 
 ---
