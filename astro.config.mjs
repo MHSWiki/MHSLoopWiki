@@ -12,7 +12,13 @@ export default defineConfig({
 				{ label: '🚀 Start Here / Masterplan', link: '/' },
 				{ label: '🏍️ Bike Rentals', link: 'essentials/rentals' },
 				{ label: '🎒 Packing & Gear', link: 'essentials/gear' },
-				{ label: '🗺️ MHS Route and Maps', link: 'route/map' },
+				{
+					label: '🗺️ The Route',
+					items: [
+						{ label: 'Clockwise Itinerary', link: 'route/clockwise' },
+						{ label: 'Counter-Clockwise Itinerary', link: 'route/counter-clockwise' },
+					],
+				},
 				{ label: '🏘️ Pai City Guide', link: 'towns/pai' },
 				{ label: '🏯 Mae Hong Son City Guide', link: 'towns/mae-hong-son' },
 				{ label: '🛶 Mae Sariang City Guide', link: 'towns/mae-sariang' },
