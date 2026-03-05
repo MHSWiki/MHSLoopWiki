@@ -12,6 +12,7 @@ export default defineConfig({
 				{ label: '🚀 Start Here / Masterplan', link: '/' },
 				{ label: '🏍️ Bike Rentals', link: 'essentials/rentals' },
 				{ label: '🎒 Packing & Gear', link: 'essentials/gear' },
+				{ label: '📱 Staying Connected: Data & eSIMs', link: 'essentials/esim' },
 				{
 					label: '🗺️ The Route',
 					items: [
