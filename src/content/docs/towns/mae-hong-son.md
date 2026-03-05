@@ -103,10 +103,24 @@ If you've been eating rice and noodles for a week and your body is screaming for
 
 The most authentic local food in town. Chom Mai makes a **Chicken Khao Soi** that is notably different from the Chiang Mai version—it has a hint of tomato in the broth which gives it a tangy depth that is uniquely Shan. They also make a pork and herb stir-fry (no menu name, just point at the board) that knocks everything else in the city out of the park.
 
-### Quick Hits:
-*   **Bai Fern:** Traditional wooden dining room + live Thai acoustic music at night. Great for a relaxed dinner with a view.
-*   **Son & Mom:** Best Western comfort food when you need a steak or a pizza and your stomach is rice-fatigued.
-*   **Cafecito:** Best tacos in town, surprisingly. Also: proper espresso.
+---
+
+## 🌙 Nightlife & Sundowners
+
+Nightlife in Mae Hong Son City is a masterclass in "chill." While Pai is loud, MHS is atmospheric. The action centers almost entirely around the lake (Nong Chong Kham).
+
+*   **The Lake Hub:** Every evening, the road on the west side of the lake fills with low tables and floor cushions. This is the best place in town to grab a cold beer from the nearby stalls and watch the pagodas light up across the water.
+*   **Good Day Cafe:** Located near the town center, this is the most "lively" it gets. It's a colorful, vibrant bar with a great selection of cocktails and local craft beers. They frequently feature live acoustic music in the evenings.
+*   **77 House:** A quirky, beautifully decorated wooden house near the lake. It's half-museum, half-cafe/bar. It’s a great spot for a relaxed drink in a very "Old Mae Hong Son" setting.
+
+## ☕ Coffee & Breakfast Culture
+
+The morning ritual in Mae Hong Son is one of the loop's highlights. The town wakes up early, often shrouded in a thick mountain mist.
+
+*   **Coffee Morning:** Located in a beautiful 100-year-old vintage wooden house. It feels like stepping into a Thai movie set from the 1950s. The coffee is excellent, and the atmosphere (teak floors, old photos, bookshelves) is perfect for a slow start.
+*   **The Congee Restaurant (Market Breakfast):** Located directly in front of the Morning Market (Talat Chao). This is where the locals eat. Order the *Khai Krata* (fried eggs in a small pan with toppings) and a bowl of steaming congee. Pair it with a traditional Thai sweet coffee.
+*   **Fruit Factory:** The go-to spot for a more modern, Western-style brunch. They make incredible waffles, pancakes, and fruit smoothie bowls. If you've had enough congee, this is where you go for a "cheat meal."
+*   **Little Good Things Vegan Cafe:** A sanctuary for healthy eaters. Great vegan breakfast options and some of the best non-dairy lattes in the city.
 
 ---
 

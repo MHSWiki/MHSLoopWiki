@@ -97,6 +97,26 @@ Small, local, and completely unphotographed—this is how you know it's the real
 
 ---
 
+---
+
+## 🍻 Nightlife & Local Pubs
+
+Mae Sariang is quiet, but it has a genuine, lived-in local bar scene that feels more "real" than the tourist bars in Pai.
+
+*   **Sawadee Cafe & Bar:** A cozy, friendly spot that is a favorite for both locals and travelers. It has a great selection of drinks and a very welcoming vibe. Ideal for a slow beer while listening to the sound of the town winding down.
+*   **Ching Ching Cafe:** Located near the river, this is a very chill, affordable spot for evening drinks. The owner is friendly, and it's a great place to meet the small expat community that calls Mae Sariang home.
+*   **The Teak House (Riverhouse Hotel):** If you want a bit more "upscale," the bar at the Riverhouse is beautiful. All teak wood, overlooking the river. It’s the best place in town for a Gin & Tonic as the sun sets over the Salween basin.
+
+## ☕ Cafe Culture & Riverside Breakfast
+
+Coffee is a serious business in Mae Sariang, thanks to the nearby hill tribe plantations.
+
+*   **Coffee House Maesaraing:** This is the local institution. Known for excellent roasts and arguably the best croissants in the province. The owner speaks great English and is a wealth of local knowledge. It’s the perfect place to map out your day over a double espresso.
+*   **Sook Coffee:** A stylish, modern gem. The owner, Nee, sources coffee from her family's own farm. They offer a range of roasts and some unique Thai desserts. Very peaceful garden setting with free WiFi if you need to check in.
+*   **Phamolor Coffee:** A quaint, homey cafe with a beautiful rose garden. Famous for their signature hot chocolate and light snacks. It’s located in a quiet residential area, offering a true "slice of life" feel.
+
+---
+
 ## 📍 Mae Sariang Bucket List:
 1.  **Salawin Border Boat Trip:** Ride 45 mins west to the Salawin River (Highway 1194). Hire a local long-tail boat (200–400 THB) and be taken along the Myanmar border. You'll see fishing villages and jungle that hasn't changed in 100 years.
 2.  **Wat Jong Sung:** A Burmese-style golden pagoda in the center of town. Go at dusk when it's lit up and the entire building glows.

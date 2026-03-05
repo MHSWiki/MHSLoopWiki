@@ -210,7 +210,23 @@ A little garden cafe with a strong focus on quality, fresh ingredients. The **ve
 
 ---
 
-## 📍 The Pai "Don't Miss" Experience List
+### 🌙 Nightlife & Social
+
+Pai's nightlife is legendarily social, though it leans more toward communal vibes and live music than high-energy clubbing. 
+
+*   **Jazz House:** The emotional center of Pai's music scene. An open-air shala with bamboo mats, floor cushions, and incredible local/traveling jazz and acoustic acts. 
+*   **Don't Cry Bar:** The "last stop" in town. Famous for being one of the few places that stays open very late, often featuring techno sets and a massive central bonfire.
+*   **Yellow Sun:** A relaxed reggae-themed bar with pool tables, cheap cocktails, and a very easy-going atmosphere. Great for meeting other riders.
+
+### ☕ Notable Cafes
+
+Pai is arguably the cafe capital of the loop. There are hundreds, but these are essential for the view or the coffee.
+
+*   **Coffee in Love:** The most famous view in Pai. Very photogenic, great for a quick stop and a photo over the valley. The cakes are above average.
+*   **Monko in Pai:** A hidden, quiet garden cafe on the outskirts. Perfect if you need to escape the town center noise to journal or check your route.
+*   **Khaotha Coffee:** The serious pick for coffee purists. They roast their own beans and the industrial, minimalist design is a nice break from the bamboo-everything elsewhere.
+
+---
 
 1.  **Pai Canyon at Sunset:** Non-negotiable. Wear actual shoes.
 2.  **Tham Lod Cave:** 45 mins toward Soppong. You take a bamboo raft through a pitch-black cave full of bats. Unreal.
