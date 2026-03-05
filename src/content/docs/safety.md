@@ -30,15 +30,13 @@ We know the drill: half of you don't have a motorcycle license back home, but th
 
 | Provider | Why Riders Love It | Est. Price (27yo) |
 | :--- | :--- | :--- |
-| **Genki Traveler** | **The Best Bet:** Currently the most lenient regarding the "no license" issue for scooters under 125cc. They focus on whether you were wearing a helmet and being sober. | **~$45 USD / Month** |
-| **SafetyWing** | **The Nomad Choice:** Excellent for long-term travelers. Covers "motorcycling" as standard, though they usually want you to be legally licensed. | **~$56 USD / 4 Weeks** |
+| **Genki Traveler** | **The Best Bet:** Currently the most lenient regarding the "no license" issue for scooters under 125cc. They focus primarily on whether you were wearing a helmet. | **~$45 USD / Month** |
+| **SafetyWing** | **The Nomad Choice:** Excellent for long-term travelers. Covers "motorcycling" as standard in their terms. | **~$56 USD / 4 Weeks** |
 
 *   **Genki Link:** [Apply for Genki Coverage Here](#) (Affiliate link coming soon)
 *   **SafetyWing Link:** [Apply for SafetyWing Here](#) (Affiliate link coming soon)
 
-<Aside type="danger" title="The Sobriety Rule">
-Regardless of which insurance you buy, if you have even **one beer** and then crash, your insurance is 100% void. Save the Chang for when the kickstand is down for the night.
-</Aside>
+
 
 ---
 
@@ -55,6 +53,10 @@ Trucks carrying construction sand frequent these mountains. They spill small pil
 ### 3. Water Buffalo & Local Dogs
 *   **Buffalo:** They weigh 600kg and don't care about your right of way. If they are in the road, stop. Wait. They'll move when they feel like it.
 *   **Dogs:** Do not kick at them. If a dog chases you, stay calm, maintain your speed, and they'll usually give up once you leave their "territory" (about 50 meters).
+
+### 4. The "Walking Wounded" (Drink & Drive)
+You will notice them on the "Walking Streets" of Pai and Chiang Mai: young travelers with white bandages on their knees, elbows, and faces. These are the victims of the "Sand & Singha" cocktail. 
+*   **The Reality:** The roads are dangerous enough sober. Mixing mountain switchbacks with a few beers at a jungle party is a recipe for a very expensive flight home in a medical helicopter. If you're drinking, grab a 20 THB motorcycle taxi or just walk—don't become another bandage-wrapped statistic.
 
 ---
 
