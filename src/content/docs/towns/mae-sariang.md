@@ -21,7 +21,7 @@ It's a compact, teak-built market town on the Yuam River, close enough to the My
 **Composite Rating:** ⭐⭐⭐⭐⭐ (4.4 / 5.0)
 **Price Range:** 1,200 – 1,800 THB / night (~$35–$54 USD)
 
-If you've spent any time on the GT-Rider forums, you'll know that Riverhouse Resort is the undisputed king of Mae Sariang accommodation for motorcycle tourers. It's been the "recommended stop" for over a decade, and it keeps its crown because it genuinely nails the things that matter to a rider: security, quality, and a perfect riverside view.
+If you follow the major Motorcycle Tours, you'll know that Riverhouse Resort is the undisputed king of Mae Sariang accommodation for riders, as all the big motorcycle touring companies stop there. It's been the recommended stop for over a decade, and it keeps its crown because it genuinely nails the things that matter to a rider: security, quality, and a perfect riverside view.
 
 The resort is built from thick, dark teak wood in a multi-storey structure that hugs the west bank of the Yuam. From your balcony you are looking directly over the river towards the jungle-covered hills of the Myanmar border. In the morning, a mist often rolls over the water, and you will feel like you are in the opening scene of Apocalypse Now (in the best possible way).
 
@@ -41,7 +41,7 @@ The resort is built from thick, dark teak wood in a multi-storey structure that 
 The Riverbank is the "new school" answer to Riverhouse's classic status. Where Riverhouse is all warm teak and tradition, The Riverbank is concrete minimalism, white walls, and big glass windows. It feels more like a smart boutique hotel in Chiang Mai than a rural guesthouse, and for the price it represents some of the best value accommodation on the entire loop.
 
 *   **The Rooms:** Spotlessly clean. The bathrooms have walk-in showers with consistent, strong hot water—you can stand in there for 20 minutes and it won't run cold (very important after a cold morning ride). Beds are on the firm side but covered with quality linens. Good AC. Big windows that let in the morning light.
-*   **Specific Details:** The GT-Rider community specifically highlights **Room B3** as having a superb elevated river view and a private balcony. Try to book that room specifically. Free coffee and tea are available at the front desk. No restaurant on-site but the night market is a 5-minute walk. Rooms on the upper floors have better views and better ventilation.
+*   **Specific Details:** Motorcycle tour guides specifically highlight **Room B3** as having a superb elevated river view and a private balcony. Try to book that room specifically. Free coffee and tea are available at the front desk. No restaurant on-site but the night market is a 5-minute walk. Rooms on the upper floors have better views and better ventilation.
 *   **Rider Pros:** **Undercover motorcycle parking**—the single biggest advantage in the wet season. Your bike stays dry. This is not something to take for granted in a town where afternoon downpours happen. Also: very fast and reliable Wi-Fi, which matters when you're uploading your gopro footage.
 *   **Rider Cons:** Fewer rooms than Riverhouse, meaning it books out completely weeks in advance during peak season. No on-site restaurant.
 *   **Our Verdict:** The smartest choice in Mae Sariang for value-per-Baht. The undercover parking alone makes it the go-to during rainy season. Book early.

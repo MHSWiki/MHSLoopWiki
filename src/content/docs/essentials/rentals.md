@@ -14,7 +14,12 @@ The great debate: do you need a manual motorcycle or will a scooter do?
 *   **Cons:** Can struggle with power on the steepest gradients if you are riding two-up (with a pillion passenger) and loaded with luggage.
 *   **Verdict:** The best choice for 80% of riders, especially those who aren't highly experienced with manual clutches on steep mountain switchbacks.
 
-**Manual Motorcycles (e.g., Honda CB500X, CRF300 Rally)**
+**Cruiser Motorcycles (e.g., Honda Rebel 300)**
+*   **Pros:** Very low seat height inspires huge confidence for newer or shorter riders. Extremely stable and relaxed riding position for the longer highway stretches.
+*   **Cons:** Low ground clearance means you can scrape pegs on the tighter switchbacks if you lean aggressively. Heavy steering in tight, low-speed turns. Not ideal for dirt or broken side-roads.
+*   **Verdict:** The perfect middle-ground for riders who want the control of a manual gearbox without the intimidating height of a full adventure bike.
+
+**Manual Adventure Motorcycles (e.g., Honda NX500, CRF300 Rally)**
 *   **Pros:** Engine braking is a lifesaver on steep, long descents—saving your brake pads from overheating. Ample power for overtaking trucks and riding two-up. Better suspension for rougher side roads.
 *   **Cons:** Requires constant gear shifting (you will shift thousands of times on the loop). Zero built-in storage; you must rent panniers or strap on a dry bag.
 *   **Verdict:** Essential for experienced riders, those riding with a pillion, or anyone planning to explore dirt trails off the main loop.
@@ -30,10 +35,10 @@ Based on standard rates from top providers (like Mango Bikes), here is what you 
 
 ## Top 5 Rental Shops in Chiang Mai
 
-Chiang Mai is the traditional starting point of the loop. Avoid the sketchy corner operations and stick to these GT-Rider and expat favorites:
+Chiang Mai is the traditional starting point of the loop. Avoid the sketchy corner operations and stick to these expat and Motorcycle Tour favorites:
 
 1.  **Mango Bikes:** Highly regarded for transparent pricing, excellent maintenance, and a great mix of scooters and touring bikes. A very professionally run outfit.
-2.  **Tony's Big Bikes:** The legendary outfitter for serious adventure riders. If you want a perfectly maintained CB500X, V-Strom, or CRF, this is the place.
+2.  **Tony's Big Bikes:** The legendary outfitter for serious adventure riders. If you want a perfectly maintained NX500, V-Strom, or CRF, this is the place.
 3.  **Cat Motors:** Fantastic for reliable, newer-model automatic scooters and small motorcycles. Great customer service.
 4.  **Pop Rental:** One of the oldest and largest fleets in Chiang Mai. They have almost everything, but inspect your specific bike carefully as the fleet is massive.
 5.  **Marble Motorcycle:** Known for good condition bikes and fair deposit policies.
