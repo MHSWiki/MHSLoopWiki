@@ -1,5 +1,5 @@
 ---
-title: Mae Hong Son City: The Mist-Shrouded Capital
+title: "Mae Hong Son City: The Mist-Shrouded Capital"
 description: The definitive data-driven directory for every hotel and top restaurant in the loop's midpoint — with full reviews and real 2025-2026 pricing.
 ---
 

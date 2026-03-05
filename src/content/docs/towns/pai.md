@@ -1,5 +1,5 @@
 ---
-title: Pai: The 762-Curve Reward
+title: "Pai: The 762-Curve Reward"
 description: The definitive, obsessively complete guide to food, drink, yoga, sunsets, and everything else in Pai — the biggest, weirdest, and most addictive town on the Mae Hong Son loop.
 ---
 

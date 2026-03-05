@@ -1,5 +1,5 @@
 ---
-title: Mae Sariang: The Quiet Riverside Gem
+title: "Mae Sariang: The Quiet Riverside Gem"
 description: The definitive data-driven directory for every hotel and restaurant in the loop's most peaceful and underrated stop — with full reviews and real 2025-2026 pricing.
 ---
 
