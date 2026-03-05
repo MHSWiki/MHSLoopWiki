@@ -1,52 +1,71 @@
 ---
-title: Bike Rentals
-description: A complete guide to renting the perfect motorcycle or scooter for the MHS Loop.
+title: "The Ultimate Bike Rental Directory"
+description: "Everything you need to know about renting a bike in Chiang Mai: 2026 price tables, shop reviews, and how to avoid the 'passport trap'."
 ---
 
-Choosing the right bike is the difference between an epic trip and a painful one. The Mae Hong Son Loop throws 1,864 curves at you, alongside steep gradients, varying road conditions, and long hours in the saddle.
+import { Aside, Card, CardGrid, LinkButton } from '@astrojs/starlight/components';
 
-## Motorcycle vs. Scooter: What to Choose?
+Choosing your bike is the single most important technical decision of your trip. The Mae Hong Son Loop throws 1,864 curves at you, and you do not want to be tackling them on a bike with bald tires or mushy brakes. 
 
-The great debate: do you need a manual motorcycle or will a scooter do?
+In Chiang Mai, the rental market is split between "back-alley" operations and professional outfits. We strictly recommend the latter.
 
-**Adventure Scooters (e.g., Honda ADV 150/160, Yamaha NMAX)**
-*   **Pros:** "Twist and go" simplicity means you can focus entirely on the curves and scenery rather than gear selection. Excellent under-seat storage for your gear. Very comfortable for solo riders.
-*   **Cons:** Can struggle with power on the steepest gradients if you are riding two-up (with a pillion passenger) and loaded with luggage.
-*   **Verdict:** The best choice for 80% of riders, especially those who aren't highly experienced with manual clutches on steep mountain switchbacks.
+---
 
-**Manual Adventure Motorcycles (e.g., Honda NX500, CRF300 Rally)**
-*   **Pros:** Engine braking is a lifesaver on steep, long descents—saving your brake pads from overheating. Ample power for overtaking trucks and riding two-up. Better suspension for rougher side roads.
-*   **Cons:** Requires constant gear shifting (you will shift thousands of times on the loop). Zero built-in storage; you must rent panniers or strap on a dry bag.
-*   **Verdict:** Essential for experienced riders, those riding with a pillion, or anyone planning to explore dirt trails off the main loop.
+## 📋 2026 Rental Price Guide (Typical Rates)
 
-## Price Expectations
+Prices fluctuate based on the season (Peak: Dec–Feb), but these are the standard 2026 daily rates you should expect from reputable shops.
 
-Based on standard rates from top providers (like Mango Bikes), here is what you should expect to pay:
+| Bike Category | Popular Models | Daily Rate (THB) | Best For... |
+| :--- | :--- | :--- | :--- |
+| **Standard Scooter** | Honda Click 125, Scoopy | 300 – 350 | Solo riders, light packing. |
+| **Adventure Scooter** | **Honda ADV 160**, PCX 160 | 500 – 800 | The Loop "Sweet Spot". Comfort & Storage. |
+| **Mid-Size Manual** | Honda CRF300L, WR155 | 800 – 1,200 | Off-pavement exploring, solo dirt fans. |
+| **Touring / Big Bike** | **Honda NX500**, V-Strom | 1,200 – 1,800 | Two-up riding, max power, experienced riders. |
+| **Cruiser Option** | Honda Rebel 300/500 | 800 – 1,200 | Lower seat height, relaxed highway cruising. |
 
-*   **Standard Scooters (110cc - 125cc):** ~250 - 350 THB/day. (Fine for solo riders packing very light).
-*   **Premium/Maxi Scooters (150cc - 300cc):** ~500 - 900 THB/day. (The sweet spot for comfort and power).
-*   **Light-to-Midweight ADV Bikes (250cc - 500cc):** ~1,000 - 1,500+ THB/day. (Perfect for touring).
-*   *Note: Most reputable shops require a passport deposit or a significant cash deposit (3,000 - 10,000+ THB depending on the bike).*
+---
 
-## Top 5 Rental Shops in Chiang Mai
+## 🏆 Top 3 Recommended Shops in Chiang Mai
 
-Chiang Mai is the traditional starting point of the loop. Avoid the sketchy corner operations and stick to these expat and Motorcycle Tour favorites:
+These shops are used by professional motorcycle tours and have long-standing reputations for maintenance.
 
-1.  **Mango Bikes:** Highly regarded for transparent pricing, excellent maintenance, and a great mix of scooters and touring bikes. A very professionally run outfit.
-2.  **Tony's Big Bikes:** The legendary outfitter for serious adventure riders. If you want a perfectly maintained NX500, V-Strom, or CRF, this is the place.
-3.  **Cat Motors:** Fantastic for reliable, newer-model automatic scooters and small motorcycles. Great customer service.
-4.  **Pop Rental:** One of the oldest and largest fleets in Chiang Mai. They have almost everything, but inspect your specific bike carefully as the fleet is massive.
-5.  **Marble Motorcycle:** Known for good condition bikes and fair deposit policies.
+### 1. Mango Bikes (Mango Scooter Rental)
+Mango is often cited as the \#1 "no-stress" rental shop in Chiang Mai. They have a massive fleet and very transparent terms.
+*   **The Vibe:** Extremely professional, western-style service levels.
+*   **Pro Model:** Their **Honda ADV 160** fleet is consistently updated and perfectly maintained.
+*   **Deposit Policy:** Usually 1,000 THB for scooters; up to 4,000 THB for 300cc+ bikes. **They do not keep your passport** (they take a copy).
+*   **Location:** Near the North Gate (Chang Phuak) of the Old City.
 
-## Renting in Pai
+### 2. Mr Mechanic
+A legend in Chiang Mai with over 20 years of history. If you want a proper big bike (500cc+), start here.
+*   **The Vibe:** Old-school mechanical expertise. They actually have a workshop on-site.
+*   **Pro Model:** Look for the **Honda NX500** (the updated version of the CB500X). It is the perfect loop machine for power and reliability.
+*   **Specialty:** One of the few reliable places to rent a **Honda Rebel** if you prefer a cruiser riding position.
+*   **Location:** Multiple branches in the Old City (Rachamankha Rd).
 
-If you are taking the minivan (or flying) directly to Pai and starting your loop from there (or just exploring locally), you still have great options:
+### 3. Cat Motors
+Fantastic for those who want newer models and clear insurance terms.
+*   **The Vibe:** Modern, very helpful staff, and often includes better-than-average insurance options.
+*   **Pro Model:** Great for the **Honda Click 160** if you want a lighter but powerful automatic.
+*   **Service:** They offer free delivery for rentals over 7 days.
+*   **Location:** South-east of the Old City.
 
-*   **Vespai Rental:** Excellent reputation in Pai, offering very well-maintained scooters perfect for exploring the surrounding canyons and hot springs.
-*   **Aya Service:** The biggest operator in Pai. While convenient (they run the minivans too), their bikes see heavy use. Inspect the tires and brakes thoroughly before signing.
+---
 
-## The Inspection Checklist
-Before you ride away, always:
-1.  **Check the tires:** Look for decent tread depth; you'll need it on mountain curves.
-2.  **Test the brakes:** Both front and rear should be highly responsive.
-3.  **Take a video:** Do a slow 360-degree video of the entire bike, highlighting any existing scratches to avoid disputes later.
+## 🚫 The "Passport Trap" & Safety Warnings
+
+<Aside type="danger" title="Never Leave Your Original Passport">
+A reputable shop will never require you to leave your original physical passport as collateral. They will take a scan/copy and a cash deposit (usually 1,000 to 5,000 THB). **If a shop insists on keeping your passport, walk away.** You need that document for hotel check-ins and emergency ID.
+</Aside>
+
+### The 5-Minute Inspection Checklist
+Before you sign the contract and ride away, do exactly this:
+1.  **Check the Tires:** Look for deep tread. If the tires look "bald" or have cracks in the sidewall, reject the bike.
+2.  **Test the Brakes:** Squeeze them hard. They should feel firm, not "spongy." (Check our [Safety Guide](/safety) for the brake fluid hack).
+3.  **The Video Walkaround:** Use your phone to take a 360-degree video of the bike, specifically zooming in on existing scratches, dents, or cracked plastics. 
+4.  **Check the Lights:** Ensure the headlight (high/low beam), turn signals, and brake light all work. You don't want to be caught on a mountain pass at dusk with no lights.
+
+### 🪖 Helmets: Don't settle for the "Brain Bucket"
+Most shops give you a free open-face helmet. On the loop, you want a **Full-Face Helmet.** It protects your jaw, keeps the wind out of your eyes, and is significantly quieter. Most professional shops will rent you a high-quality Index or HJC full-face helmet for an extra 50-100 THB/day. It is worth every cent.
+
+<LinkButton href="/route/overview">I've Got My Bike, What's the Route? &rarr;</LinkButton>
