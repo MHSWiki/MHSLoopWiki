@@ -1,5 +1,5 @@
 ---
-title: Route & Maps
+title: MHS Route and Maps
 description: The master route, directions, and alternate shortcuts for the Mae Hong Son Loop.
 ---
 
