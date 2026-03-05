@@ -18,6 +18,16 @@ Not all Thai telecom networks are created equal, especially when you leave the C
 *   **AIS (The Mountain King):** This is the network you want for the loop. AIS has invested heavily in rural cell towers. You will have strong 4G (and often 5G) in Pai, Mae Hong Son City, Mae Sariang, and even in remote villages like Ban Rak Thai. You will only lose signal in the very deepest valleys between mountain passes.
 *   **TrueMove H / Dtac:** Excellent in Chiang Mai and Bangkok, but they suffer from significant dead zones once you get deep into the Mae Hong Son province. 
 
+---
+
+## 🗺️ Old School Navigation: The 2003 Way
+
+The first time I tackled the Mae Hong Son loop in 2003, smartphones didn't exist, and Google Maps was years away. We did what people did back then: we carried a paper map strapped to the fuel tank and hoped for the best.
+
+Even in the age of 5G, there is a lot to be said for having a backup. 
+* **Print your own:** You can [download and print our high-res route map here](#) (Link coming soon).
+* **The Gold Standard:** If you want the absolute best physical map, look for the **GT-Rider.com Mae Hong Son Loop map**. You can buy them at major bike rental shops in Chiang Mai. They are updated constantly and are the gold standard for riders.
+
 ## 📲 Physical SIM vs. eSIM
 
 You have two options when arriving in Thailand: queue up at a kiosk in the airport after a 15-hour flight to buy a physical plastic SIM card, or download an eSIM while you are still lying in bed back home.
@@ -36,6 +46,18 @@ While there are many tourist eSIM providers out there, the company we recommend 
 *   **Network Access:** BNE SIM partners with the top tier local networks (meaning you get that vital AIS mountain coverage).
 *   **Cost Effective:** They offer data packages that are often significantly cheaper than the "Tourist Rates" sold at the airport kiosks.
 *   **No Expiration Anxiety:** They offer options for daily data or total gigabyte packages that don't expire after a strict 8-day window, which is perfect if you decide to extend your loop or stay longer in Pai.
+
+### Why AIS "Tourist SIMs" are a Rip-off
+
+When you land at the airport, you'll be bombarded by AIS, True, and Dtac booths selling "Unlimited" tourist SIMs. While convenient, they are significantly more expensive than modern eSIM alternatives. 
+
+| Feature | AIS Tourist SIM (Airport) | BNE SIM (eSIM) |
+| :--- | :--- | :--- |
+| **Typical Cost** | ~299 - 599 THB | ~$5 - $10 USD |
+| **Price per GB** | ~$2.50 USD | **~$0.50 USD** |
+| **AIS Network Access** | Yes | Yes (Partner Network) |
+| **Activation** | Wait in line at kiosk | Instant (via QR Code) |
+| **Verdict** | Overpriced convenience | **Best Value for Riders** |
 
 *(Affiliate link for BNE SIM coming soon!)*
 
