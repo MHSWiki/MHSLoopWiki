@@ -38,8 +38,9 @@ The goal is to provide value-first monetization that actually helps the traveler
 ---
 
 ## 🚀 Roadblock & Roadmap
-*   [x] Infrastructure (Astro/GitHub/Netlify) - **DONE**
+*   [x] Infrastructure (Astro/GitHub/Netlify/Cloudflare) - **DONE**
 *   [x] Homepage / Masterplan Navigation - **DONE**
+*   [x] Monetization Strategy defined and documented (`monetization_strategy.md`) - **DONE**
+*   [x] Full Insurance & Safety Deep Dive - **DONE**
 *   [ ] Rewrite Mae Hong Son City & Mae Sariang Guides - **NEXT**
-*   [ ] Full Insurance & Safety Deep Dive - **LATER**
 *   [ ] Affiliate Integration (Stay22 Maps) - **QUEUED**
