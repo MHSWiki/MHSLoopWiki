@@ -9,9 +9,10 @@ The most direct way to monetize the site without degrading the user experience. 
 
 | Affiliate Partner | Product / Category | Implementation | Potential Commission |
 | :--- | :--- | :--- | :--- |
-| **Stay22** | Accommodations | Map embeds in Town Guides & Itinerary pages. | ~5-10% of booking |
-| **BNE SIM** | eSIM / Connectivity | Comparison table & deep-dive guide. | ~10-20% per sale |
-| **Genki / SafetyWing** | Travel Insurance | Dedicated Insurance & Safety page. | ~$10-15 per lead |
+| **Stay22** | Accommodations | Map embeds in Town Guides & Itinerary pages. | ~10% of total booking |
+| **BNE SIM** | eSIM / Connectivity | Comparison table & deep-dive guide. | ~15-20% per sale |
+| **Genki** | Travel Insurance | Optimized for "No-License" (under 125cc). | ~$12 USD / lead |
+| **SafetyWing** | Travel Insurance | Standard for long-term nomads & big bikers. | ~10% of premium |
 | **Amazon Associates** | Gear & Packing | Links for Phone Mounts, Dry Bags, Gloves. | 4-10% of sale |
 
 ### 2. Bike Rental Partnerships (Mid Priority)
