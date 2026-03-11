@@ -33,7 +33,6 @@ export default defineConfig({
 								{ label: '5-Day Route (Slow & Deep)', link: 'route/counter-clockwise/5-day' },
 							]
 						},
-						{ label: '🧭 External Guide: Travelsmith 5-Day', link: 'guides/travelsmith-5-day' },
 					],
 				},
 				{ label: '🏘️ Pai City Guide', link: 'towns/pai' },
