@@ -18,6 +18,33 @@ export default defineConfig({
 							navigator.serviceWorker.register('/sw.js');
 						});
 					}
+
+					let deferredPrompt;
+					window.addEventListener('beforeinstallprompt', (e) => {
+						e.preventDefault();
+						deferredPrompt = e;
+						const installUI = document.getElementById('pwa-install-container');
+						if (installUI) installUI.style.display = 'block';
+					});
+
+					window.addEventListener('appinstalled', () => {
+						deferredPrompt = null;
+						const installUI = document.getElementById('pwa-install-container');
+						if (installUI) installUI.style.display = 'none';
+					});
+
+					async function installPWA() {
+						if (!deferredPrompt) return;
+						deferredPrompt.prompt();
+						const { outcome } = await deferredPrompt.userChoice;
+						deferredPrompt = null;
+					}
+
+					document.addEventListener('click', (e) => {
+						if (e.target && e.target.id === 'pwa-install-button') {
+							installPWA();
+						}
+					});
 				` }
 			],
 			sidebar: [

@@ -86,8 +86,53 @@ nav[aria-label="Main"] {
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
 }
 
+
 @media (max-width: 768px) {
     .top-banner img {
         height: 200px;
     }
+}
+
+/* PWA Install Banner Styling */
+#pwa-install-container {
+    display: none; /* Hidden until beforeinstallprompt triggers */
+    background: linear-gradient(135deg, #ff8c00 0%, #e67e22 100%);
+    color: white;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    margin: 2rem 0;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(255, 140, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+#pwa-install-container h3 {
+    margin-top: 0;
+    color: white !important;
+    font-size: 1.25rem;
+}
+
+#pwa-install-container p {
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+    opacity: 0.9;
+}
+
+#pwa-install-button {
+    background: white;
+    color: #ff8c00;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 999px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#pwa-install-button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
 }
