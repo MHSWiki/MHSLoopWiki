@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import astroPwa from '@vite-pwa/astro';
 
 // https://astro.build/config
 export default defineConfig({
@@ -8,6 +9,17 @@ export default defineConfig({
 		starlight({
 			title: 'MHS Loop Wiki',
 			tableOfContents: false, // Disables the right-hand sidebar
+			head: [
+				{ tag: 'link', attrs: { rel: 'manifest', href: '/manifest.webmanifest' } },
+				{ tag: 'meta', attrs: { name: 'theme-color', content: '#1f2937' } },
+				{ tag: 'script', content: `
+					if ('serviceWorker' in navigator) {
+						window.addEventListener('load', () => {
+							navigator.serviceWorker.register('/sw.js');
+						});
+					}
+				` }
+			],
 			sidebar: [
 				{ label: '🚀 Start Here / Masterplan', link: '/' },
 				{ label: '🏍️ Bike Rentals', link: 'essentials/rentals' },
@@ -43,6 +55,29 @@ export default defineConfig({
 			customCss: [
 				'./src/styles/custom.css',
 			],
+		}),
+		astroPwa({
+			registerType: 'autoUpdate',
+			workbox: {
+				globPatterns: ['**/*.{js,css,html,ico,png,svg,webp}'],
+				maximumFileSizeToCacheInBytes: 5000000,
+			},
+			manifest: {
+				name: 'MHS Loop Wiki',
+				short_name: 'MHS Loop',
+				description: 'The definitive guide to the Mae Hong Son loop.',
+				theme_color: '#1f2937',
+				background_color: '#1f2937',
+				display: 'standalone',
+				icons: [
+					{
+						src: '/favicon.svg',
+						sizes: '192x192 512x512',
+						type: 'image/svg+xml',
+						purpose: 'any maskable'
+					}
+				]
+			}
 		}),
 	],
 });
