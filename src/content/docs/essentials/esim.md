@@ -52,13 +52,14 @@ While there are many tourist eSIM providers out there, the company we recommend 
 
 When you land at the airport, you'll be bombarded by booths selling tourist SIMs for **over 500 THB**. It is a complete rip-off. Pay for your eSIM now, install it to your phone, and **hit the ground running** as soon as you land.
 
-| Feature | AIS Tourist SIM (Airport) | BNE SIM (eSIM) |
+| Feature | Tourist SIM (Airport) | BNE SIM (eSIM) |
 | :--- | :--- | :--- |
-| **Typical Cost** | ~599+ THB | ~$5 - $10 USD |
+| **Typical Cost** | **$22** (15 Days) / **$37** (30 Days) | **$8** (30 Days / 20GB*) |
 | **Price per GB** | ~$2.50+ USD | **< $0.50 USD** |
-| **AIS Network Access** | Yes | Yes (Partner Network) |
 | **Activation** | Wait in line at kiosk | Instant (via QR Code) |
 | **Verdict** | Overpriced Rip-off | **Value King: 30% Off** |
+
+*\*Price after 30% off promo code applied.*
 
 [**Activate Your 30% Off BNE eSIM Here**](https://www.bnesim.com/store/esim/?ref=ba97)
 
