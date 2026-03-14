@@ -43,7 +43,7 @@ You have two options when arriving in Thailand: queue up at a kiosk in the airpo
 
 While there are many tourist eSIM providers out there, the company we recommend most for cost and absolute reliability is **BNE SIM**.
 
-*   **30% Discount:** [**Click this link and you'll get 30% off your first order**](https://www.bnesim.com/store/esim/?ref=ba97). (Use code **ba97** if prompted).
+*   **30% Discount:** [**Click this link and you'll get 30% off your first order**](https://shop.bnesim.com/?a=BA97&coupon-code=BNESIM30). (Use code **BA97** if prompted).
 *   **Network Access:** BNE SIM partners with the top tier local networks (meaning you get that vital AIS mountain coverage).
 *   **Cost Effective:** BNE sims have data at **less than $.50 USD per gigabyte** these days—so say goodbye to the days of overpriced tourist sims.
 *   **No Expiration Anxiety:** Unlike airport cards, they offer options for daily data or total gigabyte packages that don't expire after a strict 8-day window.
@@ -61,12 +61,12 @@ When you land at the airport, you'll be bombarded by booths selling tourist SIMs
 
 *\*Price after 30% off promo code applied.*
 
-
+![BNE SIM Checkout Proof](../../../assets/bne_checkout_proof.png)
 
 > [!IMPORTANT]
 > **Disable "Smart Top-up":** BNE SIM has an automatic smart top-up feature enabled by default. To avoid unexpected charges, make sure to **unselect** this option during the checkout process (as shown in the image above) unless you explicitly want it to auto-refill.
 
-[**Activate Your 30% Off BNE eSIM Here**](https://www.bnesim.com/store/esim/?ref=ba97)
+[**Activate Your 30% Off BNE eSIM Here**](https://shop.bnesim.com/?a=BA97&coupon-code=BNESIM30)
 
 ---
 
