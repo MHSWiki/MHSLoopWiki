@@ -43,23 +43,24 @@ You have two options when arriving in Thailand: queue up at a kiosk in the airpo
 
 While there are many tourist eSIM providers out there, the company we recommend most for cost and absolute reliability is **BNE SIM**.
 
+*   **30% Discount:** [**Click this link and you'll get 30% off your first order**](https://www.bnesim.com/store/esim/?ref=ba97). (Use code **ba97** if prompted).
 *   **Network Access:** BNE SIM partners with the top tier local networks (meaning you get that vital AIS mountain coverage).
-*   **Cost Effective:** They offer data packages that are often significantly cheaper than the "Tourist Rates" sold at the airport kiosks.
-*   **No Expiration Anxiety:** They offer options for daily data or total gigabyte packages that don't expire after a strict 8-day window, which is perfect if you decide to extend your loop or stay longer in Pai.
+*   **Cost Effective:** BNE sims have data at **less than $.50 USD per gigabyte** these days—so say goodbye to the days of overpriced tourist sims.
+*   **No Expiration Anxiety:** Unlike airport cards, they offer options for daily data or total gigabyte packages that don't expire after a strict 8-day window.
 
-### Why AIS "Tourist SIMs" are a Rip-off
+### Why Airport "Tourist SIMs" are a Rip-off
 
-When you land at the airport, you'll be bombarded by AIS, True, and Dtac booths selling "Unlimited" tourist SIMs. While convenient, they are significantly more expensive than modern eSIM alternatives. 
+When you land at the airport, you'll be bombarded by booths selling tourist SIMs for **over 500 THB**. It is a complete rip-off. Pay for your eSIM now, install it to your phone, and **hit the ground running** as soon as you land.
 
 | Feature | AIS Tourist SIM (Airport) | BNE SIM (eSIM) |
 | :--- | :--- | :--- |
-| **Typical Cost** | ~299 - 599 THB | ~$5 - $10 USD |
-| **Price per GB** | ~$2.50 USD | **~$0.50 USD** |
+| **Typical Cost** | ~599+ THB | ~$5 - $10 USD |
+| **Price per GB** | ~$2.50+ USD | **< $0.50 USD** |
 | **AIS Network Access** | Yes | Yes (Partner Network) |
 | **Activation** | Wait in line at kiosk | Instant (via QR Code) |
-| **Verdict** | Overpriced convenience | **Best Value for Riders** |
+| **Verdict** | Overpriced Rip-off | **Value King: 30% Off** |
 
-*(Affiliate link for BNE SIM coming soon!)*
+[**Activate Your 30% Off BNE eSIM Here**](https://www.bnesim.com/store/esim/?ref=ba97)
 
 ---
 
