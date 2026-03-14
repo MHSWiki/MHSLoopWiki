@@ -13,6 +13,22 @@ export default defineConfig({
 			head: [
 				{ tag: 'link', attrs: { rel: 'manifest', href: '/manifest.webmanifest' } },
 				{ tag: 'meta', attrs: { name: 'theme-color', content: '#1f2937' } },
+				{
+					tag: 'script',
+					attrs: {
+						'data-noptimize': '1',
+						'data-cfasync': 'false',
+						'data-wpfc-render': 'false',
+					},
+					content: `
+  (function () {
+      var script = document.createElement("script");
+      script.async = 1;
+      script.src = 'https://emrldtp.com/NTA3ODcx.js?t=507871';
+      document.head.appendChild(script);
+  })();
+`,
+				},
 				{ tag: 'script', content: `
 					if ('serviceWorker' in navigator) {
 						window.addEventListener('load', () => {
