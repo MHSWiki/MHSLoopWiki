@@ -50,6 +50,7 @@ export default defineConfig({
 			],
 			sidebar: [
 				{ label: '🚀 Start Here / Masterplan', link: '/' },
+				{ label: '🤖 Plan Your Trip (AI Widget)', link: 'plan-your-trip' },
 				{ label: '🏍️ Bike Rentals', link: 'essentials/rentals' },
 				{ label: '🎒 Packing & Gear', link: 'essentials/gear' },
 				{ label: '📱 Staying Connected: Data & eSIMs', link: 'essentials/esim' },
