@@ -1,10 +1,11 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import astroPwa from '@vite-pwa/astro';
+import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://mhsloopwiki.netlify.app',
+	site: 'https://maehongsonloop.wiki',
 	integrations: [
 		starlight({
 			title: 'MHS Loop Wiki',
@@ -83,6 +84,7 @@ export default defineConfig({
 				'./src/styles/custom.css',
 			],
 		}),
+		react(),
 		astroPwa({
 			registerType: 'autoUpdate',
 			workbox: {

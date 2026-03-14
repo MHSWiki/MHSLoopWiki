@@ -5,6 +5,9 @@ template: doc
 ---
 
 import { Card, CardGrid, LinkCard, Aside } from '@astrojs/starlight/components';
+import TripBuilder from '../../components/TripBuilder';
+
+<TripBuilder client:load />
 
 <div class="top-banner">
 ![MHS Loop Banner](../../assets/mhs_loop_banner.png)
