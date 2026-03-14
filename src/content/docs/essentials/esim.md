@@ -55,11 +55,16 @@ When you land at the airport, you'll be bombarded by booths selling tourist SIMs
 | Feature | Tourist SIM (Airport) | BNE SIM (eSIM) |
 | :--- | :--- | :--- |
 | **Typical Cost** | **$22** (15 Days) / **$37** (30 Days) | **$8** (30 Days / 20GB*) |
-| **Price per GB** | ~$2.50+ USD | **< $0.50 USD** |
+| **Price per GB** | ~$2.50+ USD | **~$0.35 USD** |
 | **Activation** | Wait in line at kiosk | Instant (via QR Code) |
 | **Verdict** | Overpriced Rip-off | **Value King: 30% Off** |
 
 *\*Price after 30% off promo code applied.*
+
+
+
+> [!IMPORTANT]
+> **Disable "Smart Top-up":** BNE SIM has an automatic smart top-up feature enabled by default. To avoid unexpected charges, make sure to **unselect** this option during the checkout process (as shown in the image above) unless you explicitly want it to auto-refill.
 
 [**Activate Your 30% Off BNE eSIM Here**](https://www.bnesim.com/store/esim/?ref=ba97)
 
