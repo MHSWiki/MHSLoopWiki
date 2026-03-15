@@ -19,164 +19,528 @@ const steps: Step[] = [
   {
     id: 'timeline',
     question: 'How many days do you have?',
-    description: 'The loop is 600km+. Your timeline determines your daily fatigue and how many side trips you can handle.',
+    description: 'The loop is 600km+. Your timeline sets the pace and how many detours you can handle.',
     options: [
-      { label: '3 Days (The Blitz)', value: '3', icon: '⚡' },
-      { label: '4 Days (The Sweet Spot)', value: '4', icon: '🎯' },
-      { label: '5 Days (Deep Dive)', value: '5', icon: '🍵' },
-      { label: '7+ Days (Slow Adventure)', value: '7', icon: '🎒' },
-    ]
+      { label: '3 Days', sub: 'The Blitz', value: '3', icon: '⚡' },
+      { label: '4 Days', sub: 'The Sweet Spot', value: '4', icon: '🎯' },
+      { label: '5 Days', sub: 'Deep Dive', value: '5', icon: '🍵' },
+      { label: '7+ Days', sub: 'Slow Adventure', value: '7', icon: '🎒' },
+    ],
   },
   {
     id: 'experience',
-    question: 'What is your riding experience?',
-    description: 'Steep grades and 1,864 curves. We\'ll match you with the right bike and safety level.',
+    question: 'Your riding experience?',
+    description: '1,864 curves. We\'ll match you with the right bike and safety briefing.',
     options: [
-      { label: "Beginner", sub: "New to bikes", value: 'beginner', icon: '🔰' },
-      { label: "Intermediate", sub: "Regular city rider", value: 'intermediate', icon: '🏍️' },
-      { label: "Pro", sub: "Experienced tourer", value: 'pro', icon: '🏆' },
-    ]
+      { label: 'Beginner', sub: 'New to bikes', value: 'beginner', icon: '🔰' },
+      { label: 'Intermediate', sub: 'Regular city rider', value: 'intermediate', icon: '🏍️' },
+      { label: 'Pro', sub: 'Experienced tourer', value: 'pro', icon: '🏆' },
+    ],
   },
   {
     id: 'budget',
-    question: 'What is your daily budget?',
+    question: 'What\'s your daily budget?',
     description: 'From 150 THB hostels to 4,000 THB luxury riverside tea houses.',
     options: [
-      { label: "Tight", sub: "Hostels & Street food", value: 'budget', icon: '💵' },
-      { label: "Comfortable", sub: "Private rooms & Cafes", value: 'mid', icon: '💳' },
-      { label: "Premium", sub: "Luxury stays & Big bikes", value: 'premium', icon: '💎' },
-    ]
-  }
+      { label: 'Tight', sub: 'Hostels & Street food', value: 'budget', icon: '💵' },
+      { label: 'Comfortable', sub: 'Private rooms & Cafes', value: 'mid', icon: '💳' },
+      { label: 'Premium', sub: 'Luxury stays & Big bikes', value: 'premium', icon: '💎' },
+    ],
+  },
 ];
 
+// ─── Shared styles ─────────────────────────────────────────────────────────────
+const WIDGET_WRAP: React.CSSProperties = {
+  background: 'linear-gradient(160deg, #16191f 0%, #0e1014 100%)',
+  border: '1px solid rgba(255,255,255,0.07)',
+  borderRadius: '18px',
+  overflow: 'hidden',
+  boxShadow: '0 24px 64px rgba(0,0,0,0.6)',
+  fontFamily: 'Inter, system-ui, -apple-system, sans-serif',
+  marginBottom: '2rem',
+  maxWidth: '620px',
+};
+
+const HEADER_BAR: React.CSSProperties = {
+  background: 'rgba(255,255,255,0.025)',
+  borderBottom: '1px solid rgba(255,255,255,0.06)',
+  padding: '11px 18px',
+  display: 'flex',
+  alignItems: 'center',
+  justifyContent: 'space-between',
+};
+
+const HEADER_LEFT: React.CSSProperties = {
+  display: 'flex',
+  alignItems: 'center',
+  gap: '8px',
+};
+
+const BRAND_DOT: React.CSSProperties = {
+  width: '8px',
+  height: '8px',
+  borderRadius: '50%',
+  background: '#ff8c00',
+  boxShadow: '0 0 8px rgba(255,140,0,0.7)',
+  flexShrink: 0,
+};
+
+const BRAND_LABEL: React.CSSProperties = {
+  color: '#ff8c00',
+  fontSize: '10px',
+  fontWeight: 800,
+  letterSpacing: '0.18em',
+  textTransform: 'uppercase',
+};
+
+const STEP_BODY: React.CSSProperties = {
+  padding: '26px 22px 22px',
+};
+
+const QUESTION_LABEL: React.CSSProperties = {
+  color: '#4b5563',
+  fontSize: '11px',
+  fontWeight: 700,
+  letterSpacing: '0.12em',
+  textTransform: 'uppercase',
+  marginBottom: '8px',
+};
+
+const QUESTION_HEADING: React.CSSProperties = {
+  color: '#ffffff',
+  fontSize: '20px',
+  fontWeight: 800,
+  letterSpacing: '-0.02em',
+  lineHeight: 1.25,
+  marginBottom: '7px',
+};
+
+const QUESTION_DESC: React.CSSProperties = {
+  color: '#6b7280',
+  fontSize: '13px',
+  lineHeight: 1.65,
+  marginBottom: '0',
+};
+
+const OPTIONS_GRID = (cols: number): React.CSSProperties => ({
+  padding: '0 14px 18px',
+  display: 'grid',
+  gridTemplateColumns: cols === 2 ? 'repeat(2, 1fr)' : '1fr',
+  gap: '10px',
+});
+
+const OPTION_BTN: React.CSSProperties = {
+  background: 'rgba(255,255,255,0.04)',
+  border: '1px solid rgba(255,255,255,0.07)',
+  borderRadius: '13px',
+  padding: '15px 16px',
+  display: 'flex',
+  alignItems: 'center',
+  gap: '13px',
+  cursor: 'pointer',
+  textAlign: 'left',
+  transition: 'background 0.14s, border-color 0.14s, transform 0.14s',
+  width: '100%',
+};
+
+const CHIP: React.CSSProperties = {
+  background: 'rgba(34,197,94,0.1)',
+  border: '1px solid rgba(34,197,94,0.25)',
+  color: '#86efac',
+  fontSize: '11px',
+  fontWeight: 600,
+  padding: '4px 10px',
+  borderRadius: '99px',
+  display: 'inline-flex',
+  alignItems: 'center',
+  gap: '4px',
+};
+
+// ─── Component ──────────────────────────────────────────────────────────────────
 export default function TripBuilder() {
   const [currentStep, setCurrentStep] = useState(0);
   const [selections, setSelections] = useState<Record<string, string>>({});
   const [email, setEmail] = useState('');
   const [submitted, setSubmitted] = useState(false);
+  const [hovered, setHovered] = useState<string | null>(null);
 
   const handleSelect = (value: string) => {
-    const newSelections = { ...selections, [steps[currentStep].id]: value };
-    setSelections(newSelections);
+    const next = { ...selections, [steps[currentStep].id]: value };
+    setSelections(next);
     setCurrentStep(currentStep + 1);
   };
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setSubmitted(true);
-    console.log("Lead captured:", { email, selections });
+    console.log('Lead captured:', { email, selections });
   };
 
+  const getLabel = (stepId: string) => {
+    const step = steps.find((s) => s.id === stepId);
+    const opt = step?.options.find((o) => o.value === selections[stepId]);
+    return opt ? `${opt.icon} ${opt.label}` : null;
+  };
+
+  const ProgressDots = ({ complete = false }: { complete?: boolean }) => (
+    <div style={{ display: 'flex', gap: '6px', alignItems: 'center' }}>
+      {steps.map((_, i) => {
+        const done = complete || i < currentStep;
+        const active = !complete && i === currentStep;
+        return (
+          <div
+            key={i}
+            style={{
+              width: active ? '22px' : '8px',
+              height: '8px',
+              borderRadius: '99px',
+              background: done ? '#22c55e' : active ? '#ff8c00' : 'rgba(255,255,255,0.1)',
+              transition: 'all 0.3s ease',
+              boxShadow: done
+                ? '0 0 6px rgba(34,197,94,0.5)'
+                : active
+                ? '0 0 8px rgba(255,140,0,0.6)'
+                : 'none',
+            }}
+          />
+        );
+      })}
+      {!complete && (
+        <span style={{ color: '#374151', fontSize: '11px', fontWeight: 700, marginLeft: '2px' }}>
+          {currentStep + 1}/3
+        </span>
+      )}
+    </div>
+  );
+
+  const SelectionBreadcrumb = () => {
+    if (currentStep === 0) return null;
+    return (
+      <div
+        style={{
+          padding: '9px 18px',
+          borderBottom: '1px solid rgba(255,255,255,0.04)',
+          display: 'flex',
+          gap: '8px',
+          flexWrap: 'wrap' as const,
+        }}
+      >
+        {steps.slice(0, currentStep).map((s) => {
+          const lbl = getLabel(s.id);
+          return lbl ? (
+            <span key={s.id} style={CHIP}>
+              ✓ {lbl}
+            </span>
+          ) : null;
+        })}
+      </div>
+    );
+  };
+
+  // ── Submitted ──────────────────────────────────────────────────────────────
   if (submitted) {
     return (
-      <div className="trip-builder-results bg-slate-900/80 backdrop-blur-md border-2 border-orange-500 rounded-3xl p-10 text-center animate-in zoom-in duration-500 shadow-[0_0_50px_-12px_rgba(249,115,22,0.5)]">
-        <div className="text-6xl mb-6">🎉</div>
-        <h2 className="text-3xl font-black mb-4 text-white uppercase tracking-tight">Strategy Generated!</h2>
-        <p className="text-gray-300 mb-8 text-lg">We've tailored the <strong>{selections.timeline}-day {selections.experience}</strong> plan for your <strong>{selections.budget}</strong> budget. Check your inbox at <strong>{email}</strong>!</p>
-        
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-left mb-8">
-            <div className="bg-white/5 p-4 rounded-2xl border border-white/10">
-                <p className="text-orange-500 text-xs font-bold uppercase mb-1">Recommended Bike</p>
-                <p className="text-white font-medium">{selections.experience === 'beginner' ? 'Honda ADV 160 (Scooter)' : 'Honda NX500 (Tourer)'}</p>
-            </div>
-            <div className="bg-white/5 p-4 rounded-2xl border border-white/10">
-                <p className="text-orange-500 text-xs font-bold uppercase mb-1">Primary Hazard</p>
-                <p className="text-white font-medium">{selections.experience === 'beginner' ? 'Brake Overheating' : 'Gravel on Apex'}</p>
-            </div>
+      <div style={{ ...WIDGET_WRAP, border: '1px solid rgba(255,140,0,0.35)' }}>
+        <div style={{ ...HEADER_BAR, background: 'rgba(255,140,0,0.07)', borderColor: 'rgba(255,140,0,0.15)' }}>
+          <div style={HEADER_LEFT}>
+            <div style={{ ...BRAND_DOT, background: '#22c55e', boxShadow: '0 0 8px rgba(34,197,94,0.7)' }} />
+            <span style={BRAND_LABEL}>Plan Generated</span>
+          </div>
+          <ProgressDots complete />
         </div>
 
-        <button 
-            onClick={() => window.location.href = '/'} 
-            className="w-full bg-gradient-to-r from-orange-500 to-orange-600 hover:from-orange-400 hover:to-orange-500 text-white font-black py-4 px-8 rounded-2xl transition-all shadow-xl shadow-orange-900/20 active:scale-95"
-        >
-            BACK TO MASTERPLAN
-        </button>
+        <div style={{ padding: '36px 24px', textAlign: 'center' }}>
+          <div style={{ fontSize: '44px', marginBottom: '14px' }}>🏍️</div>
+          <h2
+            style={{
+              color: '#fff',
+              fontSize: '22px',
+              fontWeight: 800,
+              letterSpacing: '-0.03em',
+              textTransform: 'uppercase',
+              marginBottom: '10px',
+            }}
+          >
+            Your Plan Is Ready
+          </h2>
+          <p style={{ color: '#9ca3af', fontSize: '14px', lineHeight: 1.65, marginBottom: '24px' }}>
+            Your{' '}
+            <strong style={{ color: '#fff' }}>
+              {selections.timeline}-day {selections.experience}
+            </strong>{' '}
+            itinerary for a{' '}
+            <strong style={{ color: '#fff' }}>{selections.budget}</strong> budget is heading
+            to <strong style={{ color: '#ff8c00' }}>{email}</strong>.
+          </p>
+
+          <div
+            style={{
+              display: 'grid',
+              gridTemplateColumns: '1fr 1fr',
+              gap: '10px',
+              marginBottom: '24px',
+              textAlign: 'left',
+            }}
+          >
+            {[
+              {
+                label: 'Recommended Bike',
+                value:
+                  selections.experience === 'beginner' ? 'Honda ADV 160' : 'Honda NX500',
+              },
+              {
+                label: 'Primary Hazard',
+                value:
+                  selections.experience === 'beginner'
+                    ? 'Brake Overheating'
+                    : 'Gravel on Apex',
+              },
+            ].map((item) => (
+              <div
+                key={item.label}
+                style={{
+                  background: 'rgba(255,255,255,0.04)',
+                  border: '1px solid rgba(255,255,255,0.07)',
+                  borderRadius: '12px',
+                  padding: '14px 16px',
+                }}
+              >
+                <p
+                  style={{
+                    color: '#ff8c00',
+                    fontSize: '10px',
+                    fontWeight: 700,
+                    textTransform: 'uppercase',
+                    letterSpacing: '0.1em',
+                    marginBottom: '5px',
+                  }}
+                >
+                  {item.label}
+                </p>
+                <p style={{ color: '#fff', fontSize: '14px', fontWeight: 600, margin: 0 }}>
+                  {item.value}
+                </p>
+              </div>
+            ))}
+          </div>
+
+          <button
+            onClick={() => (window.location.href = '/')}
+            style={{
+              background: 'linear-gradient(135deg, #ff8c00 0%, #c97200 100%)',
+              color: '#fff',
+              border: 'none',
+              borderRadius: '12px',
+              padding: '14px',
+              fontSize: '14px',
+              fontWeight: 800,
+              textTransform: 'uppercase',
+              letterSpacing: '0.06em',
+              cursor: 'pointer',
+              width: '100%',
+            }}
+          >
+            Back to Masterplan →
+          </button>
+        </div>
       </div>
     );
   }
 
+  // ── Email capture ──────────────────────────────────────────────────────────
   if (currentStep === steps.length) {
     return (
-      <div className="trip-builder-email bg-slate-900/90 backdrop-blur-xl border border-white/10 rounded-3xl overflow-hidden shadow-2xl">
-        <div className="relative h-48 bg-slate-800 flex items-center justify-center overflow-hidden">
-            <img 
-                src="/_astro/blurry_map_teaser.webp" 
-                alt="Secret Magic" 
-                className="absolute inset-0 w-full h-full object-cover opacity-50 blur-[2px]"
-            />
-            <div className="absolute inset-0 bg-gradient-to-t from-slate-900 to-transparent" />
-            <div className="relative text-center px-6">
-                <h3 className="text-white font-black text-2xl uppercase italic tracking-tighter">The Secret Magic</h3>
-                <p className="text-orange-400 text-xs font-bold tracking-widest uppercase">Unlocking Private Route Layer...</p>
-            </div>
+      <div style={WIDGET_WRAP}>
+        <div style={HEADER_BAR}>
+          <div style={HEADER_LEFT}>
+            <div style={BRAND_DOT} />
+            <span style={BRAND_LABEL}>AI Trip Builder</span>
+          </div>
+          <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' as const }}>
+            {steps.map((s, i) => {
+              const lbl = getLabel(s.id);
+              return lbl ? (
+                <span key={i} style={{ ...CHIP, fontSize: '10px', padding: '3px 8px' }}>
+                  {lbl}
+                </span>
+              ) : null;
+            })}
+          </div>
         </div>
-        
-        <div className="p-8 text-center bg-slate-900">
-            <h2 className="text-2xl font-bold mb-3 text-white">Where should we send your plan?</h2>
-            <p className="text-gray-400 mb-8 text-sm leading-relaxed">Join 1,200+ riders. You'll receive the custom itinerary, our <span className="text-white font-medium">"Invisible Grandma"</span> safety cheat sheet, and a curated list of stops for your specific budget.</p>
-            
-            <form onSubmit={handleSubmit} className="flex flex-col gap-4 max-w-sm mx-auto">
-              <input 
-                type="email" 
-                required 
-                placeholder="rider@example.com" 
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                className="bg-slate-800 border-2 border-white/5 rounded-2xl py-4 px-6 text-white focus:outline-none focus:border-orange-500 transition-colors text-lg"
-              />
-              <button 
-                type="submit" 
-                className="bg-orange-500 hover:bg-orange-400 text-white font-black py-4 rounded-2xl transition-all shadow-lg shadow-orange-900/40 text-lg uppercase tracking-tight active:scale-95"
-              >
-                Get The Full Masterplan 🏍️
-              </button>
-              <p className="text-[10px] text-gray-500 mt-2 italic">Zero spam. Hardcore riding advice only. Unsubscribe anytime.</p>
-            </form>
+
+        <div style={{ padding: '30px 22px', textAlign: 'center' }}>
+          <div
+            style={{
+              display: 'inline-block',
+              background: 'rgba(255,140,0,0.12)',
+              border: '1px solid rgba(255,140,0,0.25)',
+              borderRadius: '99px',
+              padding: '4px 14px',
+              color: '#ff8c00',
+              fontSize: '11px',
+              fontWeight: 700,
+              letterSpacing: '0.1em',
+              textTransform: 'uppercase',
+              marginBottom: '16px',
+            }}
+          >
+            🔓 One Last Step
+          </div>
+          <h2
+            style={{
+              color: '#fff',
+              fontSize: '21px',
+              fontWeight: 800,
+              letterSpacing: '-0.02em',
+              marginBottom: '10px',
+            }}
+          >
+            Where should we send your plan?
+          </h2>
+          <p
+            style={{
+              color: '#6b7280',
+              fontSize: '13px',
+              lineHeight: 1.7,
+              marginBottom: '24px',
+              maxWidth: '380px',
+              margin: '0 auto 24px',
+            }}
+          >
+            Join 1,200+ riders. You'll get the custom itinerary + our{' '}
+            <span style={{ color: '#d1d5db' }}>"Invisible Grandma"</span> safety cheat sheet
+            and a curated stop list for your budget.
+          </p>
+
+          <form
+            onSubmit={handleSubmit}
+            style={{
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '10px',
+              maxWidth: '360px',
+              margin: '0 auto',
+            }}
+          >
+            <input
+              type="email"
+              required
+              placeholder="rider@example.com"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              style={{
+                background: 'rgba(255,255,255,0.05)',
+                border: '1px solid rgba(255,255,255,0.1)',
+                borderRadius: '12px',
+                padding: '14px 18px',
+                color: '#fff',
+                fontSize: '15px',
+                outline: 'none',
+                width: '100%',
+                boxSizing: 'border-box',
+              }}
+            />
+            <button
+              type="submit"
+              style={{
+                background: 'linear-gradient(135deg, #ff8c00 0%, #c97200 100%)',
+                color: '#fff',
+                border: 'none',
+                borderRadius: '12px',
+                padding: '14px',
+                fontSize: '15px',
+                fontWeight: 800,
+                textTransform: 'uppercase',
+                letterSpacing: '0.06em',
+                cursor: 'pointer',
+              }}
+            >
+              Get My Masterplan 🏍️
+            </button>
+            <p style={{ color: '#374151', fontSize: '11px', margin: 0, textAlign: 'center' }}>
+              Zero spam. Hardcore riding advice only.
+            </p>
+          </form>
         </div>
       </div>
     );
   }
 
+  // ── Step wizard ────────────────────────────────────────────────────────────
   const step = steps[currentStep];
+  const isTwoCol = step.options.length === 4;
 
   return (
-    <div className="trip-builder-wizard bg-slate-900/40 backdrop-blur-md border border-white/5 rounded-3xl p-8 mb-12 shadow-2xl transition-all">
-      <div className="flex justify-between items-center mb-10">
-        <div className="flex flex-col">
-            <span className="text-[10px] font-black text-orange-500 uppercase tracking-[0.2em] mb-1">AI Logistics Widget</span>
-            <div className="flex gap-1.5">
-                {steps.map((_, i) => (
-                    <div key={i} className={`h-1.5 w-10 rounded-full transition-all duration-500 ${i <= currentStep ? 'bg-orange-500 shadow-[0_0_10px_rgba(249,115,22,0.5)]' : 'bg-white/5'}`} />
-                ))}
-            </div>
+    <div style={WIDGET_WRAP}>
+      {/* Header */}
+      <div style={HEADER_BAR}>
+        <div style={HEADER_LEFT}>
+          <div style={BRAND_DOT} />
+          <span style={BRAND_LABEL}>AI Trip Builder</span>
         </div>
-        <span className="text-xs font-bold text-gray-500 tabular-nums">{currentStep + 1} / 3</span>
+        <ProgressDots />
       </div>
 
-      <div className="mb-10">
-        <h2 className="text-3xl md:text-4xl font-black mb-3 text-white leading-[1.1] tracking-tight">{step.question}</h2>
-        <p className="text-gray-400 text-sm md:text-base leading-relaxed">{step.description}</p>
+      {/* Previous selections */}
+      <SelectionBreadcrumb />
+
+      {/* Question */}
+      <div style={STEP_BODY}>
+        <p style={QUESTION_LABEL}>Step {currentStep + 1} of 3</p>
+        <h2 style={QUESTION_HEADING}>{step.question}</h2>
+        <p style={QUESTION_DESC}>{step.description}</p>
       </div>
-      
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        {step.options.map((option) => (
-          <button
-            key={option.value}
-            onClick={() => handleSelect(option.value)}
-            className="group relative flex items-center gap-5 p-6 bg-slate-800/50 border border-white/5 hover:border-orange-500/50 rounded-2xl transition-all hover:bg-orange-500/[0.03] text-left hover:-translate-y-1"
-          >
-            <span className="text-4xl filter grayscale group-hover:grayscale-0 transition-all">{option.icon}</span>
-            <div className="flex flex-col">
-                <span className="text-white font-black text-lg leading-tight group-hover:text-orange-500 transition-colors uppercase tracking-tight">{option.label}</span>
-                {option.sub && <span className="text-gray-500 text-xs font-medium">{option.sub}</span>}
-            </div>
-            <div className="absolute right-6 opacity-0 group-hover:opacity-100 transition-all translate-x-4 group-hover:translate-x-0">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" className="text-orange-500">
-                    <path d="M5 12h14M12 5l7 7-7 7"/>
-                </svg>
-            </div>
-          </button>
-        ))}
+
+      {/* Options */}
+      <div style={OPTIONS_GRID(isTwoCol ? 2 : 1)}>
+        {step.options.map((option) => {
+          const isHovered = hovered === option.value;
+          return (
+            <button
+              key={option.value}
+              onClick={() => handleSelect(option.value)}
+              onMouseEnter={() => setHovered(option.value)}
+              onMouseLeave={() => setHovered(null)}
+              style={{
+                ...OPTION_BTN,
+                background: isHovered ? 'rgba(255,140,0,0.07)' : 'rgba(255,255,255,0.04)',
+                borderColor: isHovered ? 'rgba(255,140,0,0.4)' : 'rgba(255,255,255,0.07)',
+                transform: isHovered ? 'translateY(-2px)' : 'none',
+              }}
+            >
+              <span style={{ fontSize: '26px', flexShrink: 0, lineHeight: 1 }}>{option.icon}</span>
+              <div style={{ flex: 1, minWidth: 0 }}>
+                <div
+                  style={{
+                    color: isHovered ? '#ff8c00' : '#fff',
+                    fontWeight: 700,
+                    fontSize: '14px',
+                    lineHeight: 1.2,
+                    transition: 'color 0.14s',
+                  }}
+                >
+                  {option.label}
+                </div>
+                {option.sub && (
+                  <div style={{ color: '#4b5563', fontSize: '12px', marginTop: '2px' }}>
+                    {option.sub}
+                  </div>
+                )}
+              </div>
+              <div
+                style={{
+                  color: isHovered ? '#ff8c00' : '#1f2937',
+                  fontSize: '18px',
+                  flexShrink: 0,
+                  transition: 'color 0.14s, transform 0.14s',
+                  transform: isHovered ? 'translateX(3px)' : 'none',
+                }}
+              >
+                ›
+              </div>
+            </button>
+          );
+        })}
       </div>
     </div>
   );

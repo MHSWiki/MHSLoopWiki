@@ -30,7 +30,7 @@ The garden is the heart of the place—a large, shaded central courtyard filled 
 *   **Rider Pros:** Secure walled courtyard with parking for 20+ bikes. Easy 8 AM checkout negotiable with friendly staff. The owner's son often hangs around and knows the local roads well.
 *   **Rider Cons:** Festival season (November Loi Krathong and February temple festivals) can make the lake-side rooms noisy until midnight. Mattresses are firm in the "Thai style" — bring your own pillow if you're a side sleeper.
 *   **Our Verdict:** If you're doing the loop for the first time or you want to be in the social heart of MHS, this is the only answer. Book 3–4 weeks ahead during high season.
-*   [Check Live Rates & Availability (Stay22)](#)
+*   [Check Live Rates & Availability →](https://www.stay22.com/search?aid=newmanityglobal&address=Mae+Hong+Son,Thailand)
 
 ---
 
@@ -45,7 +45,7 @@ Every now and then a guesthouse comes along that genuinely over-delivers on ever
 *   **Rider Pros:** A quiet, residential side-street location that still puts you 7 minutes on foot from the lake. The owner can arrange secure, locked garage parking on request. Great for early morning departures.
 *   **Rider Cons:** The communal areas are smaller than Piya, so it lacks a bit of the social scene. No pool. Can fill up fast in January–February.
 *   **Our Verdict:** The best value stay in the entire Mae Hong Son province. If you can only book one thing in MHS, make it Boondee House. Your back, your wallet, and your soul will thank you.
-*   [Check Live Rates & Availability (Stay22)](#)
+*   [Check Live Rates & Availability →](https://www.stay22.com/search?aid=newmanityglobal&address=Mae+Hong+Son,Thailand)
 
 ---
 
@@ -62,9 +62,19 @@ It famously hosted Angelina Jolie and Brad Pitt during a filming trip. We're not
 *   **Rider Pros:** Perfectly peaceful. Zero traffic noise. Secure bike parking in a proper lot. Ideal for couples or solo riders who want a restorative night.
 *   **Rider Cons:** You must ride or take a Songthaew back into town for the night market (about 10 mins). Some bungalows are older and could use an upgrade—ask for a recently refurbished one when booking.
 *   **Our Verdict:** The most atmospheric stay on the entire loop. Worth every Baht for at least one night. This is the place that will make your non-rider friends jealous.
-*   [Check Live Rates & Availability (Stay22)](#)
+*   [Check Live Rates & Availability →](https://www.stay22.com/search?aid=newmanityglobal&address=Mae+Hong+Son,Thailand)
 
 ---
+
+<iframe
+  src="https://www.stay22.com/embed/gmaps?aid=newmanityglobal&address=Mae+Hong+Son,Thailand"
+  width="100%"
+  height="460"
+  frameborder="0"
+  style="border-radius:12px;margin:1rem 0;"
+  loading="lazy"
+  title="Mae Hong Son accommodation map"
+></iframe>
 
 ## 🏨 The Full Inventory — Every Major Stay in Town
 

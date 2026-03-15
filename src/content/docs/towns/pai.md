@@ -36,7 +36,17 @@ Park your bike. Seriously. **Lock it, cover it, and walk.** Pai town is compact 
 | **Reverie Siam** | ⭐⭐⭐⭐⭐ | Out of Town | 2,500-5,000 THB | Colonial-era luxury in the jungle. The most beautiful hotel on the loop. |
 | **Rim Pai Cottages** | ⭐⭐⭐⭐ | Riverside | 800-1,600 THB | Gorgeous wooden riverside cottages. Romantic and quiet. |
 
-[Check Rates & Availability (Stay22)](#)
+<iframe
+  src="https://www.stay22.com/embed/gmaps?aid=newmanityglobal&address=Pai,Mae+Hong+Son,Thailand"
+  width="100%"
+  height="460"
+  frameborder="0"
+  style="border-radius:12px;margin:1rem 0;"
+  loading="lazy"
+  title="Pai accommodation map"
+></iframe>
+
+[🏨 Browse All Pai Hotels & Check Live Rates](https://www.stay22.com/search?aid=newmanityglobal&address=Pai,Mae+Hong+Son,Thailand)
 
 ---
 

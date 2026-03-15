@@ -15,6 +15,23 @@ The most direct way to monetize the site without degrading the user experience. 
 | **SafetyWing** | Travel Insurance | Standard for long-term nomads & big bikers. | ~10% of premium |
 | **Amazon Associates** | Gear & Packing | Links for Phone Mounts, Dry Bags, Gloves. | 4-10% of sale |
 
+### ⚠️ Travelpayouts Platform Rejection (March 2026)
+Applied via Travelpayouts for: **GetYourGuide, Booking.com, Viator, Trip.com, Agoda.**
+**Result: Rejected** for all five. Reasons given:
+- Not enough traffic on travel content
+- No active blog / regularly-updated articles (they don't recognise a wiki as a "content site")
+
+**Workarounds & Alternatives — no traffic required:**
+- **Apply directly** to Booking.com, Agoda, and GetYourGuide independently. Their own affiliate portals have lower bars than Travelpayouts and don't require traffic minimums.
+- **Klook Affiliate** — strong for activities/tours in Thailand, easy approval for niche sites.
+- **12Go Asia** — apply directly (not via Travelpayouts). Covers buses, trains, ferries CM→Pai and back. Perfect fit.
+- **Hostelworld** — direct affiliate, well-suited to backpacker audience, easy sign-up.
+- **Add a Blog section** — even 3-4 personal trip reports ("I rode the loop in 4 days: here's what happened") would satisfy the "active blog" requirement for reapplication.
+- **Reapply to Travelpayouts** after publishing 5+ blog posts and connecting Google Search Console to show indexing.
+- **Note:** The Travelpayouts Emerald auto-monetization script is already live in the site `<head>` and will auto-convert any travel links we add regardless of approval status on individual programs.
+
+---
+
 ### 2. Bike Rental Partnerships (Mid Priority)
 Since we are funneling high-intent travelers directly to shops like Mango Bikes or Mr Mechanic, we can leverage this for referral fees.
 - **Direct Referrals:** Partner with 1-2 top-tier shops for a flat lead-gen fee (e.g., 100 THB per rental) for users who mention "MHS Loop Wiki".

@@ -42,5 +42,11 @@ The goal is to provide value-first monetization that actually helps the traveler
 *   [x] Homepage / Masterplan Navigation - **DONE**
 *   [x] Monetization Strategy defined and documented (`monetization_strategy.md`) - **DONE**
 *   [x] Full Insurance & Safety Deep Dive - **DONE**
+*   [x] AI Trip Builder Widget (Plan Your Trip page) - **DONE**
 *   [ ] Rewrite Mae Hong Son City & Mae Sariang Guides - **NEXT**
 *   [ ] Affiliate Integration (Stay22 Maps) - **QUEUED**
+*   [ ] Apply directly to Booking.com, Agoda, Klook, 12Go, Hostelworld affiliate programs - **QUEUED**
+*   [ ] Add Blog section (3-5 personal ride reports) — required to reapply to Travelpayouts - **QUEUED**
+
+### ⚠️ Known Blocker: Travelpayouts Rejection (March 2026)
+Rejected for GetYourGuide, Booking.com, Viator, Trip.com, Agoda via the Travelpayouts platform. They cited low traffic and no blog. Fix: apply to those programs directly, and add a blog section before reapplying. See `monetization_strategy.md` for full details and alternatives.

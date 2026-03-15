@@ -30,7 +30,7 @@ The resort is built from thick, dark teak wood in a multi-storey structure that 
 *   **Rider Pros:** Secure on-site parking for large groups. The staff are completely used to managing 10–20 bike tour groups. Very easy check-out. The concierge can help arrange local truck repairs if something went wrong on the 108 coming in.
 *   **Rider Cons:** The pool is at their "Hotel" sister property a short walk away—it's free to use but slightly inconvenient. Breakfast is decent but a bit standardized for the price. Beds might be slightly stiff for some.
 *   **Our Verdict:** The #1 pick for almost every loop rider in Mae Sariang. If Riverhouse is full, The Riverbank is the natural backup. Book 3–4 weeks ahead in peak season (December–February).
-*   [Check Live Rates & Availability (Stay22)](#)
+*   [Check Live Rates & Availability →](https://www.stay22.com/search?aid=newmanityglobal&address=Mae+Sariang,Thailand)
 
 ---
 
@@ -45,7 +45,7 @@ The Riverbank is the "new school" answer to Riverhouse's classic status. Where R
 *   **Rider Pros:** **Undercover motorcycle parking**—the single biggest advantage in the wet season. Your bike stays dry. This is not something to take for granted in a town where afternoon downpours happen. Also: very fast and reliable Wi-Fi, which matters when you're uploading your gopro footage.
 *   **Rider Cons:** Fewer rooms than Riverhouse, meaning it books out completely weeks in advance during peak season. No on-site restaurant.
 *   **Our Verdict:** The smartest choice in Mae Sariang for value-per-Baht. The undercover parking alone makes it the go-to during rainy season. Book early.
-*   [Check Live Rates & Availability (Stay22)](#)
+*   [Check Live Rates & Availability →](https://www.stay22.com/search?aid=newmanityglobal&address=Mae+Sariang,Thailand)
 
 ---
 
@@ -60,9 +60,19 @@ Above The Sea quietly sits at the top of almost every rating list in Mae Sariang
 *   **Rider Pros:** The staff (rated 9.2/10 on Booking.com) are genuinely helpful—they'll arrange laundry, restaurant recommendations, and local attraction logistics. Safe bike parking in a private area at the rear of the property.
 *   **Rider Cons:** Not directly on the riverfront—it's one street back from the Yuam. If a river balcony view is your priority, Riverhouse still wins on that front.
 *   **Our Verdict:** The highest quality stay in Mae Sariang by some margin. If you want to feel pampered—or if you are traveling with a non-rider partner who needs convincing that this trip was a good idea—this is your answer.
-*   [Check Live Rates & Availability (Stay22)](#)
+*   [Check Live Rates & Availability →](https://www.stay22.com/search?aid=newmanityglobal&address=Mae+Sariang,Thailand)
 
 ---
+
+<iframe
+  src="https://www.stay22.com/embed/gmaps?aid=newmanityglobal&address=Mae+Sariang,Thailand"
+  width="100%"
+  height="460"
+  frameborder="0"
+  style="border-radius:12px;margin:1rem 0;"
+  loading="lazy"
+  title="Mae Sariang accommodation map"
+></iframe>
 
 ## 🏨 The Full Inventory — Every Other Major Stay
 
