@@ -19,5 +19,8 @@
     "sharp": "^0.34.2",
     "vite-plugin-pwa": "^1.2.0",
     "workbox-window": "^7.4.0"
+  },
+  "devDependencies": {
+    "rehype-external-links": "^3.0.0"
   }
 }
