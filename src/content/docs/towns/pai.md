@@ -30,11 +30,11 @@ Park your bike. Seriously. **Lock it, cover it, and walk.** Pai town is compact 
 
 | Hotel | Rating | Zone | Price | Rider Review |
 | :--- | :--- | :--- | :--- | :--- |
-| **Up2U Guesthouse** | ⭐⭐⭐⭐ | Riverside | 250-400 THB | Bamboo-bridge, hammocks, and legends. Social and very cheap. |
-| **Prawdao** | ⭐⭐⭐⭐ | Town | 500-900 THB | Clean, central, and has the best secure bike parking in central Pai. |
-| **Pai Chan** | ⭐⭐⭐⭐⭐ | Town | 700-1,200 THB | Rice paddy views + pool. The best "value with views" combo in town. |
-| **Reverie Siam** | ⭐⭐⭐⭐⭐ | Out of Town | 2,500-5,000 THB | Colonial-era luxury in the jungle. The most beautiful hotel on the loop. |
-| **Rim Pai Cottages** | ⭐⭐⭐⭐ | Riverside | 800-1,600 THB | Gorgeous wooden riverside cottages. Romantic and quiet. |
+| [**Up2U Guesthouse**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fup2u-guesthouse-pai.html) | ⭐⭐⭐⭐ | Riverside | 250-400 THB | Bamboo-bridge, hammocks, and legends. Social and very cheap. |
+| [**Prawdao**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fprawdao-resort.html) | ⭐⭐⭐⭐ | Town | 500-900 THB | Clean, central, and has the best secure bike parking in central Pai. |
+| [**Pai Chan**](https://www.agoda.com/pai-chan-cottage-cuisine/hotel/pai-th.html) | ⭐⭐⭐⭐⭐ | Town | 700-1,200 THB | Rice paddy views + pool. The best "value with views" combo in town. |
+| [**Reverie Siam**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Freverie-siam-resort.html) | ⭐⭐⭐⭐⭐ | Out of Town | 2,500-5,000 THB | Colonial-era luxury in the jungle. The most beautiful hotel on the loop. |
+| [**Rim Pai Cottages**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Frim-pai-cottage.html) | ⭐⭐⭐⭐ | Riverside | 800-1,600 THB | Gorgeous wooden riverside cottages. Romantic and quiet. |
 
 <iframe
   src="https://www.stay22.com/embed/gmaps?aid=newmanityglobal&address=Pai,Mae+Hong+Son,Thailand"

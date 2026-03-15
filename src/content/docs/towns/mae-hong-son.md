@@ -17,7 +17,7 @@ The lake at the center of town—Nong Chong Kham—is ringed by majestic Burmese
 
 ## 🏍️ The "Rider First" Stays — Detailed Reviews
 
-### 1. Piya Guesthouse
+### 1. [Piya Guesthouse](https://www.agoda.com/piya-guesthouse/hotel/mae-hong-son-th.html)
 **Composite Rating:** ⭐⭐⭐⭐⭐ (4.4 / 5.0)
 **Price Range:** 700 – 1,200 THB / night (~$20–$36 USD)
 
@@ -34,7 +34,7 @@ The garden is the heart of the place—a large, shaded central courtyard filled 
 
 ---
 
-### 2. Boondee House
+### 2. [Boondee House](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fboondee-house.html)
 **Composite Rating:** ⭐⭐⭐⭐⭐ (4.6 / 5.0)
 **Price Range:** 450 – 900 THB / night (~$13–$27 USD)
 
@@ -49,7 +49,7 @@ Every now and then a guesthouse comes along that genuinely over-delivers on ever
 
 ---
 
-### 3. Fern Resort
+### 3. [Fern Resort](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Ffern-resort-mae-hong-son.html)
 **Composite Rating:** ⭐⭐⭐⭐⭐ (4.6 / 5.0)
 **Price Range:** 1,600 – 2,800 THB / night (~$48–$84 USD)
 
@@ -80,14 +80,14 @@ It famously hosted Angelina Jolie and Brad Pitt during a filming trip. We're not
 
 | Hotel Name | Rating | Price Range | Full Review |
 | :--- | :--- | :--- | :--- |
-| **B2 MHS Premier** | ⭐⭐⭐ | 850 – 1,100 THB | Modern chain hotel standard. Rooms are large with balconies and clean, tiled bathrooms with a proper rain shower—arguably the best bathroom hardware in town for the price. AC is powerful, the bed is firm, and Wi-Fi works. It is a 12-min walk to the lake. The included breakfast is a decent buffet but can feel rushed. No soul, but totally reliable. Useful if everything else is booked. |
-| **Jasmin Resort** | ⭐⭐⭐⭐ | 900 – 1,400 THB | Immaculate standalone bungalows set back from a quiet road. The bathrooms are newly fitted with clean tiles and good pressure. The staff are genuinely warm and speak good English. Excellent for couples wanting privacy. The garden is well-maintained with flower beds and hammock spots. Solid bike parking in the courtyard. |
-| **Imperial MHS** | ⭐⭐⭐ | 1,500 – 2,200 THB | The biggest building in town. Dated interiors—think late 90s resort décor—but the beds are comfortable and the restaurant, which fronts the pool, serves a reliable Thai buffet. The pool is large. Breakfast is 250 THB extra and is average. It occasionally packages well for group bookings. |
-| **Rimtarn Resort** | ⭐⭐⭐⭐ | 800 – 1,300 THB | A hidden gem for non-smokers and garden-lovers. Lush tropical gardens surround the rooms, which are quiet, clean, and zen. The breakfast is a highlight—freshly made Thai dishes served in a wooden dining sala overlooking a small pond. Very peaceful, great for winding down. |
-| **Sang Tong Huts** | ⭐⭐⭐⭐ | 600 – 1,000 THB | Classic traveler-favorite bamboo huts in a jungle garden setting inside city limits. It's rustic and charming—you share the space with the local wildlife (geckos, birds, and the odd very large spider). The outdoor bathrooms are well-maintained and clean. Excellent for the full "off-grid" experience without leaving town. |
-| **PLP Guesthouse** | ⭐⭐⭐ | 350 – 600 THB | The budget king. Bare-bones rooms with clean, hot-water bathrooms and solid, safe parking for small bikes. The owner speaks limited English but compensates with a handshake and a smile. Zero frills but zero surprises. Great for one-nighters. |
-| **Crossroads House** | ⭐⭐⭐⭐ | 350 – 550 THB | The social hub for budget solo riders. Dorm beds available (120 THB) and private rooms are clean and functional. The rooftop area is where you'll swap stories and meet people doing the loop in the other direction. The fried rice here (50 THB) is shockingly good. |
-| **Gims Resort** | ⭐⭐⭐⭐ | 700 – 1,100 THB | Standalone bungalows with elevated decks overlooking working rice paddies. The bathrooms are dated but functional. Best for families or groups wanting their own space. Very quiet and great for morning coffees with mountain views. |
+| [**B2 MHS Premier**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fpo-b2-mae-hong-son-premier-hotel-mae-hong-son.html) | ⭐⭐⭐ | 850 – 1,100 THB | Modern chain hotel standard. Rooms are large with balconies and clean, tiled bathrooms with a proper rain shower—arguably the best bathroom hardware in town for the price. AC is powerful, the bed is firm, and Wi-Fi works. It is a 12-min walk to the lake. The included breakfast is a decent buffet but can feel rushed. No soul, but totally reliable. Useful if everything else is booked. |
+| [**Jasmin Resort**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fjasmin-resort.html) | ⭐⭐⭐⭐ | 900 – 1,400 THB | Immaculate standalone bungalows set back from a quiet road. The bathrooms are newly fitted with clean tiles and good pressure. The staff are genuinely warm and speak good English. Excellent for couples wanting privacy. The garden is well-maintained with flower beds and hammock spots. Solid bike parking in the courtyard. |
+| [**Imperial MHS**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fthe-imperial-tara-mae-hong-son.html) | ⭐⭐⭐ | 1,500 – 2,200 THB | The biggest building in town. Dated interiors—think late 90s resort décor—but the beds are comfortable and the restaurant, which fronts the pool, serves a reliable Thai buffet. The pool is large. Breakfast is 250 THB extra and is average. It occasionally packages well for group bookings. |
+| [**Rimtarn Resort**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Frimtarn-resort.html) | ⭐⭐⭐⭐ | 800 – 1,300 THB | A hidden gem for non-smokers and garden-lovers. Lush tropical gardens surround the rooms, which are quiet, clean, and zen. The breakfast is a highlight—freshly made Thai dishes served in a wooden dining sala overlooking a small pond. Very peaceful, great for winding down. |
+| [**Sang Tong Huts**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fsang-tong-huts.html) | ⭐⭐⭐⭐ | 600 – 1,000 THB | Classic traveler-favorite bamboo huts in a jungle garden setting inside city limits. It's rustic and charming—you share the space with the local wildlife (geckos, birds, and the odd very large spider). The outdoor bathrooms are well-maintained and clean. Excellent for the full "off-grid" experience without leaving town. |
+| [**PLP Guesthouse**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fplp-guesthouse-mae-hong-son.html) | ⭐⭐⭐ | 350 – 600 THB | The budget king. Bare-bones rooms with clean, hot-water bathrooms and solid, safe parking for small bikes. The owner speaks limited English but compensates with a handshake and a smile. Zero frills but zero surprises. Great for one-nighters. |
+| [**Crossroads House**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fcrossroads-house.html) | ⭐⭐⭐⭐ | 350 – 550 THB | The social hub for budget solo riders. Dorm beds available (120 THB) and private rooms are clean and functional. The rooftop area is where you'll swap stories and meet people doing the loop in the other direction. The fried rice here (50 THB) is shockingly good. |
+| [**Gims Resort**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fgims-resort.html) | ⭐⭐⭐⭐ | 700 – 1,100 THB | Standalone bungalows with elevated decks overlooking working rice paddies. The bathrooms are dated but functional. Best for families or groups wanting their own space. Very quiet and great for morning coffees with mountain views. |
 
 ---
 

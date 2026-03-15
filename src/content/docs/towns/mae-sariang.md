@@ -17,7 +17,7 @@ It's a compact, teak-built market town on the Yuam River, close enough to the My
 
 ## 🏍️ The "Rider First" Stays — Detailed Reviews
 
-### 1. Riverhouse Resort
+### 1. [Riverhouse Resort](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Friver-house-resort.html)
 **Composite Rating:** ⭐⭐⭐⭐⭐ (4.4 / 5.0)
 **Price Range:** 1,200 – 1,800 THB / night (~$35–$54 USD)
 
@@ -34,7 +34,7 @@ The resort is built from thick, dark teak wood in a multi-storey structure that 
 
 ---
 
-### 2. The Riverbank
+### 2. [The Riverbank](https://www.agoda.com/river-bank-resort/hotel/mae-hong-son-th.html)
 **Composite Rating:** ⭐⭐⭐⭐⭐ (4.6 / 5.0)
 **Price Range:** 700 – 1,100 THB / night (~$20–$32 USD)
 
@@ -49,7 +49,7 @@ The Riverbank is the "new school" answer to Riverhouse's classic status. Where R
 
 ---
 
-### 3. Above The Sea
+### 3. [Above The Sea](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fabove-the-sea-maesariang.html)
 **Composite Rating:** ⭐⭐⭐⭐⭐ (4.8 / 5.0)
 **Price Range:** 900 – 1,500 THB / night (~$27–$45 USD)
 
@@ -80,7 +80,7 @@ Above The Sea quietly sits at the top of almost every rating list in Mae Sariang
 | :--- | :--- | :--- | :--- |
 | **Mae-Sa-Riang Home** | ⭐⭐⭐⭐⭐ | 400 – 700 THB | The best budget option in town. The host provides complimentary fresh fruit, tea, and coffee daily. Rooms are modest but impeccably maintained—bathrooms are clean with reliable hot water and fresh towels. The host knows every restaurant and local spot and will write you a personal "food map" on request. Central location, 5 min walk to the riverside. Mountain-view rooms available. |
 | **BK Hotel** | ⭐⭐⭐⭐ | 550 – 800 THB | Located just across the bridge from the town center. Spacious rooms with large, clean bathrooms featuring modern tile work and strong hot showers. Has its own secure, gated parking yard which is ideal for bikes. Very close to the local food market. Staff are friendly if quiet. The breakfast (100 THB) is a simple but filling spread. A reliable mid-budget choice. |
-| **Riverhouse Hotel (Teak House)** | ⭐⭐⭐⭐ | 800 – 1,400 THB | The original "Riverhouse" building—a genuinely massive, historic three-storey teakwood structure. The rooms are atmospheric but can feel a little dark (it's very old-school teak paneling). The bathrooms are functional with good hot water. The Coriander in Teak restaurant on the ground floor is one of the most beautiful dining rooms on the loop. Great "Instagram" vibes. |
+| [**Riverhouse Hotel (Teak House)**](https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Friverhouse.html) | ⭐⭐⭐⭐ | 800 – 1,400 THB | The original "Riverhouse" building—a genuinely massive, historic three-storey teakwood structure. The rooms are atmospheric but can feel a little dark (it's very old-school teak paneling). The bathrooms are functional with good hot water. The Coriander in Teak restaurant on the ground floor is one of the most beautiful dining rooms on the loop. Great "Instagram" vibes. |
 | **Good View Guest House** | ⭐⭐⭐ | 500 – 900 THB | Simple, honest riverside guesthouse. The rooms are aging but clean, and the bathrooms work fine. The attached **Good View Restaurant** is worth mentioning—it's where you go for a cheap riverside sunset beer (60 THB Beer Chang) and basic Thai stir-fries (80–120 THB). The fried rice here is solid and arrives fast. |
 | **Mitaree Hotel** | ⭐⭐⭐ | 600 – 1,000 THB | Older, larger rooms in the center of the local market area. The bathrooms are dated but functional. It's noisy due to the market proximity but that also means you're steps away from the best local food stalls. Great for riders who want to be in the local scene rather than the tourist zone. |
 | **Mini Guesthouse** | ⭐⭐⭐⭐ | 600 – 900 THB | A modern, compact riverside property. The rooms are small but very cleverly laid out and spotlessly maintained. The bathroom is notable for its excellent water pressure (genuinely one of the best showers in Mae Sariang). Good Wi-Fi. Located very close to the bridge view. |
