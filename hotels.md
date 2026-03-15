@@ -23,12 +23,12 @@ Use this to reconstruct Stay22 Allez links without re-searching.
 | The Riverbank | Agoda — direct link | `https://www.agoda.com/river-bank-resort/hotel/mae-hong-son-th.html` | Not on Booking.com — use direct Agoda link |
 | Above The Sea | Booking.com ✅ | `https://www.booking.com/hotel/th/above-the-sea-maesariang.html` | `https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fabove-the-sea-maesariang.html` |
 | Riverhouse Hotel (Teak House) | Booking.com ✅ | `https://www.booking.com/hotel/th/riverhouse.html` | `https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Friverhouse.html` |
-| Mae-Sa-Riang Home | ❓ | Not found | — |
-| BK Hotel | ❓ | Not found | — |
-| Good View Guest House | ❓ | Not found | — |
-| Mitaree Hotel | ❓ | Not found | — |
-| Mini Guesthouse | ❓ | Not found | — |
-| Baan Khue Wieng | ❓ | Not found | — |
+| Mae-Sa-Riang Home | Booking.com ✅ | `https://www.booking.com/hotel/th/mae-sa-riang-home.html` | `https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmae-sa-riang-home.html` |
+| BK Hotel | Booking.com ✅ | `https://www.booking.com/hotel/th/bk-mae-sariang.html` | `https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbk-mae-sariang.html` |
+| Good View Guest House | Not on Booking.com | — | No link |
+| Mitaree Hotel | Booking.com ✅ | `https://www.booking.com/hotel/th/mitaree.html` | `https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fmitaree.html` |
+| Mini Guesthouse | Not on Booking.com | — | No link |
+| Baan Khue Wieng | Booking.com ✅ | `https://www.booking.com/hotel/th/baan-khue-wieng-resort-mae-sariang.html` | `https://www.stay22.com/allez?aid=newmanityglobal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fth%2Fbaan-khue-wieng-resort-mae-sariang.html` |
 
 ---
 
